@@ -14,13 +14,23 @@ mEczane, modern ve kullanıcı dostu bir arayüze sahip kapsamlı bir Eczane Yö
 
 Sistemin arayüzünden bazı görseller:
 
-<div align="center">
+<details>
+  <summary><b>Ekran Görüntüsü 1 (Görmek için tıklayın)</b></summary>
+  <br>
   <img src="siteiçi/Ekran görüntüsü 2026-06-09 205922.png" width="800" alt="Ekran Görüntüsü 1" style="border-radius:10px; margin-bottom:10px;">
+</details>
+
+<details>
+  <summary><b>Ekran Görüntüsü 2 (Görmek için tıklayın)</b></summary>
   <br>
   <img src="siteiçi/Ekran görüntüsü 2026-06-09 210118.png" width="800" alt="Ekran Görüntüsü 2" style="border-radius:10px; margin-bottom:10px;">
+</details>
+
+<details>
+  <summary><b>Ekran Görüntüsü 3 (Görmek için tıklayın)</b></summary>
   <br>
   <img src="siteiçi/Ekran görüntüsü 2026-06-09 210258.png" width="800" alt="Ekran Görüntüsü 3" style="border-radius:10px;">
-</div>
+</details>
 
 ## 🚀 Kurulum
 
